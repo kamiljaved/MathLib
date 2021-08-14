@@ -1,0 +1,11 @@
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib_GVer1.exe.config
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib_GVer1.exe
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib_GVer1.pdb
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.Properties.Resources.resources
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.exe
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.pdb
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.MLGUI.resources
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.Splash.resources
+C:\Users\Kamil\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.Splash.resources
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib_GVer1.Properties.Resources.resources
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.csproj.GenerateResource.Cache
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.exe.config
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.exe
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.pdb
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.exe
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.pdb
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.MLGUI.resources
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.exe.config
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.exe
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\bin\Release\MathLib.pdb
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.MLGUI.resources
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\mlgui.Splash.resources
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.Properties.Resources.resources
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.csproj.GenerateResource.cache
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.csproj.CoreCompileInputs.cache
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.exe
+F:\KJ98\Backups\KamilJaved-DELL (January-2021)\Kamil Javed\Desktop\C# Projects\MathLib_GVer1\MathLib_GVer1\obj\Release\MathLib.pdb
