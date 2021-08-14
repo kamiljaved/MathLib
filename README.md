@@ -71,7 +71,7 @@ $ git clone https://github.com/kamiljaved98/MathLib
 $ cd MathLib
 ```
 Then run <b>MathLib.csproj</b> project file with Visual Studio. A Release version is also present in <b>bin/Release</b> folder. 
-Alternatively, <a href="bin/Release/MathLib.exe"> get the app here</a>.
+Alternatively, <a href="https://github.com/kamiljaved98/MathLib/raw/master/bin/Release/MathLib.exe"> get the app here</a>.
 <p>A short usage example is given below. </p>
 
 ```m
@@ -83,6 +83,15 @@ This input declares <b>y</b> as a new function over the variables <b>x</b>, <b>a
   <a>
 		<img src="misc/demoscr1.png" alt="Demo Image 1.">
   </a>
+
+Now, we can also add more stuff to this expression, including itself, such as:
+
+```m
+y = y + 10
+y = y^cos(y)
+```
+
+Resulting in a complicated expression with the following function-tree:
 
 ```
 POW  (x+a+b+10)^(cos(x+a+b+10))
@@ -103,6 +112,19 @@ POW  (x+a+b+10)^(cos(x+a+b+10))
         └───CONS  10
 ```
 
+The expression is still symbolic in nature, but we can evaluate its derivative at desired variable values. We evaluate it with respect to <b>x</b> here by mentioning it as the second argument in the <b>derivative</b> <i>command</i>, and also provide numeric values for rest of the variables:
+
+```m
+derivative y, x=0.1, a=4, b=10
+```
+
+The output is shown in the <i>Output</i> tab of the bottom dialog:
+
+  <a>
+		<img src="misc/demoscr2.png" alt="Demo Image 2.">
+  </a>
+
+Which shows the (unsimplified) derivative expression as well as the derivative value at provided variable values.
 
 ## Notes
 
