@@ -61,7 +61,7 @@ Minor function simplification has been implemented but not enabled in this GUI v
 
 ## How To Use
 
-You'll need [Visual Studio](https://www.python.org/) with C# development support to build this app. From your command line:
+You'll need [Visual Studio](https://visualstudio.microsoft.com/) with C# development support to build this app. From your command line:
 
 ```bash
 # Clone this repository (or download from github page)
