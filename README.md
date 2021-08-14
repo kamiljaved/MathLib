@@ -11,8 +11,8 @@ App). Supports storing, evaluating, and taking derivatives of Symbolic Math Expr
 <p></p>
 
 <p align="center">
-  <a href="https://easybase.io">
-    <img src="https://raw.githubusercontent.com/kamiljaved98/MathLib/master/mlgui_ico.ico" alt="easybase logo black" width="80" height="80">
+  <a>
+    <img src="mlgui_ico.ico" alt="MathLib Logo" width="80" height="80">
   </a>
 </p>
 
@@ -21,10 +21,10 @@ App). Supports storing, evaluating, and taking derivatives of Symbolic Math Expr
 		<img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg" alt="Uses C#." title="Uses C#."/>
 	</a>
   <a>
-		<img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt=" Made with Python.">
+		<img src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg" alt=" Works (mostly).">
   </a>
   <a>
-		<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30px" alt="Uses HTML.">
+		<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30px" alt=":)">
   </a>
 
 </p>
@@ -71,7 +71,7 @@ $ git clone https://github.com/kamiljaved98/MathLib
 $ cd MathLib
 ```
 Then run <b>MathLib.csproj</b> project file with Visual Studio. A Release version is also present in <b>bin/Release</b> folder. 
-Alternatively, <a href="https://drive.google.com/file/d/1A9Jr5JbvYjjOIRObRO-J7vkxZN8-4q7t/view?usp=sharing"> get the app here</a>.
+Alternatively, <a href="bin/Release/MathLib.exe"> get the app here</a>.
 <p>A short usage example is given below. </p>
 
 ```m
@@ -79,6 +79,30 @@ y = x + a + b
 ```
 
 This input declares <b>y</b> as a new function over the variables <b>x</b>, <b>a</b>, and <b>b</b>. Its generated function-tree can be viewed by clicking on the <i>Function Tree</i> tab in the bottom dialog and then selecting <i>y</i> from the list of Functions on bottom right.
+
+  <a>
+		<img src="misc/demoscr1.png" alt="Demo Image 1.">
+  </a>
+
+```
+POW  (x+a+b+10)^(cos(x+a+b+10))
+├───ADD  x+a+b+10
+│   ├───ADD  x+a+b
+│   │   ├───ADD  x+a
+│   │   │   ├───VAR  x
+│   │   │   └───VAR  a
+│   │   └───VAR  b
+│   └───CONS  10
+└───COSINE  cos(x+a+b+10)
+    └───ADD  x+a+b+10
+        ├───ADD  x+a+b
+        │   ├───ADD  x+a
+        │   │   ├───VAR  x
+        │   │   └───VAR  a
+        │   └───VAR  b
+        └───CONS  10
+```
+
 
 ## Notes
 
