@@ -135,4 +135,4 @@ Which shows the (unsimplified) derivative expression as well as the derivative v
 ---
 
 > [kamiljaved.pythonanywhere.com](https://kamiljaved.pythonanywhere.com/) &nbsp;&middot;&nbsp;
-> GitHub [@kamiljaved98](https://github.com/kamiljaved98)
+> GitHub [@kamiljaved](https://github.com/kamiljaved)
